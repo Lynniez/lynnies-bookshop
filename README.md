@@ -1,6 +1,6 @@
 # Lynnies BookShop — Online Bookstore
 
-**Student name:** [Your name]
+**Student name:** Lynda DJEBOURI
 **Store name:** Lynnies BookShop
 
 ## Description
